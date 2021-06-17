@@ -1,6 +1,6 @@
 body {
-    background: rgb(131,58,180);
-    background: radial-gradient(circle, rgba(131,58,180,1) 4%, rgba(29,152,253,1) 48%, rgba(252,176,69,1) 80%); 
+    background: rgb(169,70,236);
+    background: radial-gradient(circle, rgba(169,70,236,1) 0%, rgba(29,152,253,1) 48%, rgba(252,176,69,1) 80%); 
 }
 
 @media only screen and (min-width: 767px){
