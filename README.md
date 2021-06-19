@@ -1,5 +1,11 @@
-# Weather Dashboard  
+# ⛅ Weather Dashboard ⛈️
 
-This is a Django project which uses OpenWeatherMap API to fetch weather data.  
+![WeatherDashboard GIF](.weather_gif.gif)  
 
-This project is hosted live at : [Link](https://audarya-weather-app.herokuapp.com/)
+*Weather Dashboard* is a website where you can search name of the location and weather details are displayed to the user.
+It's made using **Django** as web framework and uses OpenWeatherMap API to fetch weather data.
+User can also look at the recently searched locations.
+
+**VISIT THE WEBSITE** :  [CLICK HERE](https://audarya-weather-app.herokuapp.com/)
+
+
