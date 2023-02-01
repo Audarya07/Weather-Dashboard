@@ -6,6 +6,4 @@
 It's made using **Django** as web framework and uses OpenWeatherMap API to fetch weather data.
 User can also look at the recently searched locations.
 
-**VISIT THE WEBSITE** :  [CLICK HERE](https://audarya-weather-app.herokuapp.com/)
-
 
